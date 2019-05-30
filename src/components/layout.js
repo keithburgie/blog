@@ -38,9 +38,9 @@ class Layout extends React.Component {
         <header>{header}</header>
         <main>{children}</main>
         <footer>
-          © {new Date().getFullYear()}, Built with
+          © {new Date().getFullYear()}, Built @
           {` `}
-          <a href="https://www.gatsbyjs.org">Gatsby</a>
+          <a href="https://flatironschool.com/?utm_source=keithsblog.xyz">Flatiron School</a> in Washington, DC 🏛️
         </footer>
       </div>
     )

@@ -28,7 +28,8 @@ function Bio() {
                 borderRadius: `50%`,
               }}
             />
-            <p>Written by <strong>{author}</strong>, who's excited for a nice little Saturday. Home Depot. Yeah, buy some wallpaper, flooring, stuff like that. Maybe Bed, Bath, &amp; Beyond. I don't know, I don't know if we'll have enough time.</p>
+            <p>Written by <strong>{author}</strong>, who's excited for a nice little Saturday. Home Depot. Yeah, buy some wallpaper, flooring, stuff like that. Maybe Bed, Bath, &amp; Beyond. I don't know. I don't know if we'll have enough time.</p>
+
           </div>
         )
       }}
