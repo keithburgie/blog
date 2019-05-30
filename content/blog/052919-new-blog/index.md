@@ -1,7 +1,7 @@
 ---
 title: A Brand New Blog
 date: "2019-05-29T01:57:30+00:00"
-description: Hello, I'm Keith. I've been meaning to start a project like this for a very long time.
+description: Hello, I'm Keith. Welcome to my new blog. I've been meaning to start a project like this for a very long time.
 ---
 
 Hello, I'm Keith. I've been meaning to start a project like this for a very long time. This blog runs on [Gatsby](https://www.gatsbyjs.org/ "GatsbyJS"), a modern, open source static site generator that uses [React](https://reactjs.org/ "ReactJS") extensively.
