@@ -1,7 +1,7 @@
 ---
 title: A Brand New Blog
 date: "2019-05-29T01:57:30+00:00"
-description: This is a custom description for SEO and Open Graph purposes, rather than the default generated excerpt. Simply add a description field to the frontmatter.
+description: Hello, I'm Keith. I've been meaning to start a project like this for a very long time.
 ---
 
 Hello, I'm Keith. I've been meaning to start a project like this for a very long time. This blog runs on [Gatsby](https://www.gatsbyjs.org/ "GatsbyJS"), a modern, open source static site generator that uses [React](https://reactjs.org/ "ReactJS") extensively.

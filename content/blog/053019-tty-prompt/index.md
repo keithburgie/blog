@@ -1,7 +1,7 @@
 ---
 title: Build a Better Ruby CLI with TTY::Prompt
 date: "2019-05-30T01:57:30+00:00"
-description: This is a custom description for SEO and Open Graph purposes, rather than the default generated excerpt. Simply add a description field to the frontmatter.
+description: Guiding a user through your program with selectable options or commands can provide a much better experience than asking them to type their own.
 ---
 
 Using Terminal to get or send information can be a challenging experience for novice developers. Most have only interacted with their computer through a GUI and will quickly feel defeated by the empty box with a blinking cursor. After all, the only thing worse than nothing, is anything.
@@ -11,7 +11,6 @@ Using Terminal to get or send information can be a challenging experience for no
 Guiding a user through your program with selectable options or commands can provide a much better experience than asking them to type their own. Likewise, you may be able to build a better program if you're able to plan for the exact inputs you'll receive from your users.
 
 ##Introducing TTY::Prompt
-
 [TTY-Prompt](https://github.com/piotrmurach/tty-prompt#ttyprompt- "TTY::Prompt Github") is described by its developer as "A beautiful and powerful interactive command line prompt." It is part of [an entire suite](https://piotrmurach.github.io/tty/ "TTY suite") of Ruby gems designed to help you build better, more functional command line apps. It provides several alternatives to ```gets.chomp``` for receiving input from your users, which would otherwise require many more lines of code to accomplish.
 
 ##How Do I Use It?
