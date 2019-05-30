@@ -30,15 +30,10 @@ class BlogPostTemplate extends React.Component {
           {post.frontmatter.date}
         </p>
         <div dangerouslySetInnerHTML={{ __html: post.html }} />
-        <hr
-          style={{
-            marginBottom: rhythm(1),
-          }}
-        />
+        <hr style={{ marginBottom: rhythm(1), }} />
         <Bio />
 
-        <ul
-          style={{
+        <ul style={{
             display: `flex`,
             flexWrap: `wrap`,
             justifyContent: `space-between`,

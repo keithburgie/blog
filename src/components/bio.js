@@ -28,14 +28,7 @@ function Bio() {
                 borderRadius: `50%`,
               }}
             />
-            <p>
-              Written by <strong>{author}</strong> who lives and works in San
-              Francisco building useful things.
-              {` `}
-              <a href={`https://twitter.com/${social.twitter}`}>
-                You should follow him on Twitter
-              </a>
-            </p>
+            <p>Written by <strong>{author}</strong>, who's got a pretty nice little Saturday planned. We're going to go to Home Depot. Yeah, buy some wallpaper, maybe get some flooring, stuff like that. Maybe Bed, Bath, &amp; Beyond, I don't know, I don't know if we'll have enough time.</p>
           </div>
         )
       }}
