@@ -56,4 +56,4 @@ prompt.select(question, choices])
 ~~~
 That last one, **prompt.select**, is really cool, because your user can use the up/down arrow keys and press enter to make their selection. You can pass that selection as a variable to do whatever you need to next. You can customize the cursor, change colors, build multi-selects, and lots more.
 
-So, for the third and final time, if you're building a command-line application, [go check out the gem](https://github.com/piotrmurach/tty-prompt#ttyprompt- "TTY::Prompt docs"). I'm going to bed now because I spent too long setting up creating this blog instead of writing a blog post. No regrets!
+So, for the third time, if you're building a command-line application, [go check out the gem](https://github.com/piotrmurach/tty-prompt#ttyprompt- "TTY::Prompt docs"). I'm going to bed now because I spent too long building this blog instead of writing a blog post. No regrets!
