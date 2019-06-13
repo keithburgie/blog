@@ -187,3 +187,6 @@ It reads from top to bottom at incredible speed. It's the only way blind users c
 * Consider using semantic HTML containers
 * Consider using [**aria-label** and **role** attributes](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/Navigation_Role)
 * Write code that looks good with the stylesheets turned off.
+
+###Presentation Examples
+[Semantic HTML - No CSS](https://codepen.io/keefblurgu/full/ydYVym) | [Semantic HTML - With CSS](https://codepen.io/keefblurgu/full/wLKGmb)
