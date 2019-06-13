@@ -31,7 +31,7 @@ class BlogPostTemplate extends React.Component {
         </p>
         <div dangerouslySetInnerHTML={{ __html: post.html }} />
         <hr style={{ marginBottom: rhythm(1), }} />
-        <Bio />
+        {/* <Bio /> */}
 
         <ul style={{
             display: `flex`,
