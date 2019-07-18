@@ -20,7 +20,7 @@ It’s not that we should *like* suffering for our work, it’s more that *you�
 
 Whether your pursuit is a career, a hobby, or a relationship, to be successful your feelings toward the tough parts must fall somewhere on a spectrum between tolerance and pleasure. If they don’t, then it’s time to consider cutting the cord. It is a waste of your time, literally a waste of your *life* to bang your head against the wall doing something that constantly sucks joy from your heart without ever putting it back.
 
-###Career
+<!-- ###Career
 Nurses, therapists and teachers feel gratification by watching their patients or students succeed. These are also relatively stable careers where a paycheck is helpful, but far from the primary motivation.
 
 Anyone who works with money, whether as a salesperson, investor, or even as a gambler, loves the thrill of winning (or selling) even more than they love the cash. Warren Buffett likes money, but more than that, he likes to be right.
@@ -33,7 +33,7 @@ No one who runs marathons or rocks a six-pack at the beach goes to the gym with 
 ###Relationships
 Are you a single person who thinks they want to be in a long-term relationship? Despite hitting it off with people, do your relationships end after a couple months? Then you (or the people you date) may be more excited about the fantasy seen on TV and in movies than in reality.
 
-Even if things are great between two people, life will happen. In-laws will visit, kids or pets will get sick, unexpected bills will pop up, and there will be tough conversations. If you can’t, or simply don’t want to suffer with this particular person, it just won’t last.
+Even if things are great between two people, life will happen. In-laws will visit, kids or pets will get sick, unexpected bills will pop up, and there will be tough conversations. If you can’t, or simply don’t want to suffer with this particular person, it just won’t last. -->
 
 ###In Summary…
 So much of life is suffering, but it’s the struggle that makes the payoff feel so good. The same couch will feel amazing after a long day on your feet and terrible after a whole day of sitting on it. To summarize all of Buddhism, “to want is to suffer.” Are you working towards enlightenment and freedom from all desire? No? Then you will always suffer, and your life will be better if you choose how to do it.
