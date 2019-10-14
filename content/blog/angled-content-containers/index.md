@@ -2,6 +2,7 @@
 title: How Do They Do It? Angled Content Containers
 date: "2019-10-13T21:57:30+00:00"
 description: Know what's safe? Driving your car in a straight line. Know what's awesome and dangerous? Powersliding that sucker sideways.
+ogimage: "./workpath-stripe.jpg"
 ---
 
 You're probably quite familiar with the standard tech company / start-up website. It's got a big shiny rectangle at the top, then a series of less exciting but more informative rectangles all the way down. Sometimes within these rectangles, the images and text alternate from left to right as you scroll down. There is usually a clear division between these rectangles.
