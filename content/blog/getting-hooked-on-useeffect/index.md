@@ -99,14 +99,14 @@ useEffect(() => {})
 \#2 will run any time there is a change to the included state.
 \#3 will run on _any_ side effect. It will fire on _every_ render.
 
-To make use of the first one, let's welcome ourselves to the game. A great real world use-case for this version would be to call an API and set returned data as our initial state.
+To make use of the first one, let's welcome ourselves to the game. A great real world use-case for this version would be to call an API and set returned data as our initial state. The empty array as the second argument tells the function to run only once.
 ~~~javascript{numberLines: true}
   useEffect(() => {
     window.alert("Take me out to the ball game...");
   }, []);
 ~~~
 
-We'll use version \#2 to watch our pitch count. Every time count updates, this function will run our checks. If any of the statements return true, they will run.
+We'll use version \#2 to watch our pitch count. Every time the **count** state updates, this function will run our checks. If any of the statements return true, they will run.
 ~~~javascript{numberLines: true}
   // Called on changes to count
   useEffect(() => {
@@ -132,7 +132,7 @@ At this point I have to call attention to our use of **fullCount** and **setFull
 
 If on 3 balls and 2 strikes we were to update a property called **count.full**, the same **useEffect()** function would be called and the same state would be updated over and over.
 
-Finally, let's use the last example to heckle batters. With every pitch, we'll log a heckle to the console. In cases where there are two events, such as a strikeout, walk, or full-count, it will log two messages because it will run twice.
+Finally, let's use the last example to heckle batters. With every pitch, we'll log a heckle to the console. In cases where there are two events, such as a strikeout, walk, or full-count, it will log two messages because it will run twice. With no second argument, this **useEffect()** block runs on every re-render, triggered by any state change.
 ~~~javascript{numberLines: true}
 useEffect(() => {
     const heckles = [
