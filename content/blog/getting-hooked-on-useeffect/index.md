@@ -13,9 +13,9 @@ Working hand-in-hand with **useState()** is the **useEffect()** hook. The Effect
 
 We're going to implement **useState()** and **useEffect()** in a very simple baseball app. It's going to count balls and strikes, tell us whether a batter walks or strikes out (nobody ever hits in this game), alert us of a full count (3 balls and 2 strikes), and heckle our batters in the console.
 
-First, create a new React app with `npx create-react-app effect-hook-app` or pull the whole repo from here: [https://github.com/keithburgie/effect-hook-baseball](https://github.com/keithburgie/effect-hook-baseball)
+First, create a new React app with **npx create-react-app effect-hook-app** or clone the repo from here: [https://github.com/keithburgie/effect-hook-baseball](https://github.com/keithburgie/effect-hook-baseball)
 
-Then import React and include our State and Effect hooks.
+If you're starting a new project, import React and include our State and Effect hooks.
 
 ~~~javascript{numberLines: true}
 import React, { useState, useEffect } from "react";
@@ -44,7 +44,7 @@ export default App;
 ## useState()
 Convention for useState() is a deconstructed array. The first word is the variable we will use to access our state, and the second word is a function to update that state. Convention is to use "set" +"myState".
 
-Whatever we put inside useState's parentheses will be the default state. It can be any data type or data. Above, we've used a nested object for **count**, the same way we would in the state of a class component, and a boolean false for **fullCount**.
+Whatever we put inside useState's parentheses will be the default state. It can be any data type or data. Above, we've used an object for **count**, the same way we would in the state of a class component, and a boolean false for **fullCount**.
 
 ~~~javascript{numberLines: true}
 const [state, setState] = useState('') // empty string
