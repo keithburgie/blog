@@ -13,7 +13,9 @@ Working hand-in-hand with **useState()** is the **useEffect()** hook. The Effect
 
 We're going to implement **useState()** and **useEffect()** in a very simple baseball app. It's going to count balls and strikes, tell us whether a batter walks or strikes out (nobody ever hits in this game), alert us of a full count (3 balls and 2 strikes), and heckle our batters in the console.
 
-First, import React and include our State and Effect hooks. 
+First, create a new React app: `npx create-react-app effect-hook-app`
+
+Then import React and include our State and Effect hooks.
 
 ~~~javascript{numberLines: true}
 import React, { useState, useEffect } from "react";
